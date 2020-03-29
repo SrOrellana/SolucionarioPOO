@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de648467-bec5-4089-af3f-54edac2d836f" name="Default Changelist" comment="" />
+    <list default="true" id="b095de04-ace0-4d7c-89da-db99eda054f4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1Zmz5JoL0fBmGjGgLOmCjFTruwE" />
+  <component name="ProjectId" id="1Zp3dchl6LDk2aCJfg6dWiUxFva" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,7 +22,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.WRMH.x00019618.Main" />
-      <module name="semana01_ejercicio01" />
+      <module name="Parqueos" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Run" />
@@ -44,13 +44,21 @@
     </recent_temporary>
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1585459276000">
+    <state width="1515" height="214" key="GridCell.Tab.0.bottom" timestamp="1585522672204">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1585459276000" />
-    <state x="282" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585459139658">
+    <state width="1515" height="214" key="GridCell.Tab.0.bottom/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1585522672204" />
+    <state width="1515" height="214" key="GridCell.Tab.0.center" timestamp="1585522672204">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="282" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1585459139658" />
+    <state width="1515" height="214" key="GridCell.Tab.0.center/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1585522672204" />
+    <state width="1515" height="214" key="GridCell.Tab.0.left" timestamp="1585522672204">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.left/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1585522672204" />
+    <state width="1515" height="214" key="GridCell.Tab.0.right" timestamp="1585522672204">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.right/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1585522672204" />
   </component>
 </project>
