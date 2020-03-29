@@ -1,5 +1,5 @@
 # Solucionario POO
-Soluciones de ejercicios de portafolio, laboratorio, videos guiados y demás.
+Soluciones de ejercicios de portafolio, laboratorio y demás.
 
 ## Utilidades
 Si alguien tiene alguna consulta de algun ejercicio ya resuelto, en la pestaña de "Issues" puede crear un tema nuevo consultado específicamente. Cabe destacar que los ejercicios subidos son **propuestas** de solución, no es que específicamente deban ser resueltos así los ejercicios.
